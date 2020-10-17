@@ -1,2 +1,0 @@
-this file is changed from branch : main
-this line is added from branch : main
