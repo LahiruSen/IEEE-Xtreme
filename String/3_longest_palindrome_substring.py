@@ -22,6 +22,22 @@ def isPalindrome(string):
         rightIndex -= 1
     return True
 
+
+# def longestPalindrome(string):
+#     currentLongest = []
+#     for i in range(1 , len(string)):
+#         odd = get
+#
+# def getLongestPali
+
+
+
+
+
+
+
+
+
 string = "abaxyzzyxf"
 
 print(longestPalindromicSubstring(string))
